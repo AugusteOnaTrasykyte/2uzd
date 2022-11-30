@@ -1,4 +1,6 @@
 # 2užduotis
+# V1.2
+Realizuota "Rule of three"
 # V1.1
 Šioje versijoje sukuriama "Studentas" klasė.
 Atlikta spartos analizė lyginant struct ir class veikimą.
