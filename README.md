@@ -2,8 +2,9 @@
 # V1.1
 Šioje versijoje sukuriama "Studentas" klasė.
 Atlikta spartos analizė lyginant struct ir class veikimą.
-|           |struct nuskaitymas|class nuskaitymas|struct rušiavimas|class rušiavimas|struct išvedimas|class išvedimas|
+|           |nuskaitymas       |                 |rušiavimas       |                |išvedimas       |               |
 |-----------|------------------|-----------------|-----------------|----------------|----------------|---------------|
+|           |struct            |class            |struct           |class           |struct          |class          |
 |1 000 000  | 41.5129s         | 61.5627s        |  10.1148s       |  11.3529s      |   21.8778s     |  27.5018s     |
 |10 000 000 | 447.245s         | 682.942s        |  180.172s       |  237.483s      |   220.618s     |  260.772s     |
 
