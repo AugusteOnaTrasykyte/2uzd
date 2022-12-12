@@ -1,5 +1,5 @@
 # 2užduotis
-# V1.3
+# V1.5
 Klasei "Studentas" sukurta bazinė klasė "Žmogus".
 # V1.2
 Realizuota "Rule of three"
